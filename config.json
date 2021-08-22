@@ -1,0 +1,13 @@
+{
+	"global": {
+		"onBuildSuccess": null
+	},
+	"mc": {
+		"namespace": "loot_chests",
+		"dev": true,
+		"header": "# Copyright Edazpotato\n# Source code avalible at https://github.com/edazpotato/loot-chests-datapack\n# Built using mc-build (https://github.com/mc-build/mc-build)",
+		"internalScoreboard": "LOOT_CHESTS_INT",
+		"generatedDirectory": "z__generated__",
+		"rootNamespace": "lootchests"
+	}
+}
