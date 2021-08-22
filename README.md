@@ -6,7 +6,7 @@ Datapack compiled using [mc-build](https://github.com/mc-build/mc-build).
 
 ## How to download
 
-Go to the [releases](/releases) section in the sidebar, select the latest release and click on the zip file. DO NOT click where it says source code.
+Go to the [releases](https://github.com/edazpotato/loot-chests-datapack/releases) section in the sidebar, select the latest release and click on the zip file. DO NOT click where it says source code.
 
 ## Usage
 
