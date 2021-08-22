@@ -2,11 +2,11 @@
 
 [Video](https://youtu.be/G2LA07Z1tI0)
 
-Datapack compiled using [mc-build](https://github.com/mc-build/mc-build)
+Datapack compiled using [mc-build](https://github.com/mc-build/mc-build).
 
 ## How to download
 
-Go to the releases tab, select the latest relase and click on the zip file. DO NOT click where it says source code.
+Go to the releases tab, select the latest release and click on the zip file. DO NOT click where it says source code.
 
 ## Usage
 
