@@ -1,6 +1,8 @@
 # Loot chests by Edazpotato
 
-[Video](https://youtu.be/G2LA07Z1tI0)
+# Version 1.1
+
+[Video](https://youtu.be/G2LA07Z1tI0) | [GitHub Documentation](https://github.com/edazpotato/loot-chests-datapack/#README)
 
 Datapack compiled using [mc-build](https://github.com/mc-build/mc-build).
 

@@ -1,6 +1,6 @@
 {
 	"pack": {
 		"pack_format": 7,
-		"description": "Adds custom loot chest functionality"
+		"description": "Adds simple loot chests. Check out https://github.com/edazpotato/loot-chests-datapack/ for more info."
 	}
 }
